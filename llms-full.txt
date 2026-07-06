@@ -1,0 +1,45 @@
+# Geotechnik — Neuss
+
+> Geotechnical engineering services in Neuss, Deutschland.
+
+## Services
+- [Atterberg Grenzen](https://neuss.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://neuss.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://neuss.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://neuss.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://neuss.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://neuss.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://neuss.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://neuss.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://neuss.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://neuss.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://neuss.geotechnik.biz/fundamente/)
+- [Geophysik](https://neuss.geotechnik.biz/geophysik/)
+- [Grundungen](https://neuss.geotechnik.biz/grundungen/)
+- [Hange](https://neuss.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://neuss.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://neuss.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://neuss.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://neuss.geotechnik.biz/labor/)
+- [Labor In Situ](https://neuss.geotechnik.biz/labor-in-situ/)
+- [Masw](https://neuss.geotechnik.biz/masw/)
+- [Plattendruckversuch](https://neuss.geotechnik.biz/plattendruckversuch/)
+- [Ruttelverdichtung](https://neuss.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://neuss.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://neuss.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://neuss.geotechnik.biz/schurfgruben/)
+- [Seismik](https://neuss.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://neuss.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://neuss.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://neuss.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://neuss.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://neuss.geotechnik.biz/strassenbau/)
+- [Tiefe Aushube](https://neuss.geotechnik.biz/tiefe-aushube/)
+- [Untersuchung](https://neuss.geotechnik.biz/untersuchung/)
+
+## Contact
+- Website: https://neuss.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Neuss, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
